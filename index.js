@@ -12,7 +12,7 @@ const port = process.env.PORT || 9000;
     visitorIp = null,
     db = null;
 
-mongoose.connect("mongodb+srv://dbUser:nfyZeLTQB6sqpdF@cluster0.dii5a.mongodb.net/myFirstDatabase?retryWrites=true&w=majority", {
+mongoose.connect("mongodb+srv://dbUser:MaeU74OwQnAlf38o@cluster0.dii5a.mongodb.net/myFirstDatabase?retryWrites=true&w=majority", {
     useNewUrlParser: true,
     useUnifiedTopology: true
 })
